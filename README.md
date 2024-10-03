@@ -8,6 +8,7 @@
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
+- [Future improvement]
 - [License](#license)
 
 ## Features
@@ -18,6 +19,7 @@
 - Searching for a course and adding it to your Google Calendar
 - Seeing all of the ratings plus reviews for a course, and average rating for a course as well
 - Posting your own review and rating for a course anonymously
+- Filter of courses based on your grade: sophomore, junior, and senior  
 
 ## Technologies Used
 
@@ -99,3 +101,10 @@ npm install googleapis
 
 - Go to a file called googleApi.ts in the backend directory to handle authentication:
 - Replace CALENDAR_ID and CREDENTIALS with your own data you created.
+
+
+## Future Improvement 
+
+- Support database for each semester
+- Add other semester's schedule and probability of the schedule for the next semester, as well as course openings
+- Add the schedule for the exam 
