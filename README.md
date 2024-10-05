@@ -8,7 +8,7 @@
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [Future improvement]
+- [Future improvement](#future-improvement)
 - [License](#license)
 
 ## Features
